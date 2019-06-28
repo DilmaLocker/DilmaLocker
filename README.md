@@ -106,7 +106,7 @@ Perdemos o código do decrypter, então você terá que coda-lo.
 
 ## Contato
 
-NULL
+suportdilmalocke@protonmail.com
 
 Pedidos
 -------
