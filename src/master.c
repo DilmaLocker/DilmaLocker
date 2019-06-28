@@ -7,7 +7,7 @@
 #include "config.h"
 
 #define MASTER_PRIVATEKEY    L"private.dlk"
-#define MASTER_PUBLICKEY     L"public.dkl"
+#define MASTER_PUBLICKEY     L"public.dlk"
 #define MASTER_MAXHEADERSIZE 3145728
 
 char *masterName = NULL;
