@@ -86,7 +86,7 @@ HCRYPTKEY gen_aes_key(HCRYPTPROV provider, HCRYPTKEY public)
 			}
 		}
 	}
-	return 0;
+	return 0
 }
 
 void *encrypt_file(void *encInfo)
